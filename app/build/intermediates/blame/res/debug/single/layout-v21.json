@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\mondy\\.android\\build-cache\\12c12cad0e1700cc3429d2ad86600a2bc3749c37\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\mondy\\.android\\build-cache\\12c12cad0e1700cc3429d2ad86600a2bc3749c37\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\mondy\\.android\\build-cache\\12c12cad0e1700cc3429d2ad86600a2bc3749c37\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\mondy\\.android\\build-cache\\12c12cad0e1700cc3429d2ad86600a2bc3749c37\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\warning.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rating_star.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\rating_star.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favourite.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\favourite.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\warning_poster.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\warning_poster.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\favourite_star.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\favourite_star.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\placeholder.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_poster.png",
+        "source": "D:\\Work\\Android Projects\\Udacity Project\\MovieApp\\app\\src\\main\\res\\drawable-mdpi\\placeholder_poster.png"
+    }
+]

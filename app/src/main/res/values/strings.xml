@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="api_key">write here your API key</string>
+    <string name="action_sort_by_popularity">Most Popular</string>
+    <string name="action_sort_by_rating">Highest Rated</string>
+    <string name="action_sort_by_favorite">Favorites</string>
+    <string name="rating">Rating</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="internet_connection">Internet connection is down Please connect to the internet</string>
+    <string name="trailers">Trailers</string>
+    <string name="content_authority">com.udacity.android.movieapp</string>
+    <string name="review"><![CDATA[Reviews & Commentary]]></string>
+    <string name="action_share">Share</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="added_from_favorites">Added from favorites</string>
+</resources>
